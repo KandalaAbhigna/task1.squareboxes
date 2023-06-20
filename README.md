@@ -1,7 +1,5 @@
 # task1.squareboxes
 
-[Tuesday 3:10 PM] Pramod
-
 create a page with an interactive interface. Initially, this page will have an input box and a submit button. The user should be able to enter a whole number (X) into the input box. Upon clicking the submit button, the page should transition to a new view, which displays X number of boxes evenly distributed on the visible screen.
 
  
